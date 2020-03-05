@@ -1,15 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Rock+Salt&display=swap');
 html{
     background-color: #272226;
+    text-align: center;
 }
 a:link{
     color: #FECD66;
+    background-color: #272226;
+    text-decoration: none;
+    font-family: Rock Salt;
+    font-size: 0.6em;
+    padding: 4.75%;
+    transition: 1s;
 }
 a:visited{
     color: #FECD66;
+    background-color: #272226;
+    text-decoration: none;
+    font-family: Rock Salt;
+    font-size: 0.75em;
+    padding: 4.75%;
+    transition: 1s;
 }
 a:hover{
     color: rgb(255, 136, 0);
+    text-decoration: none;
+    background-color: #524a50;
+    text-shadow: rgba(158, 84, 0, 0.85) -1px 1px 2px;
+    padding: 4.75%;
+    font-family: Rock Salt;
+    font-size: 0.75em;
+    transition: 0.5s;
 }
 a:active{
     color: rgb(255, 136, 0);
+    text-decoration: none;
+    background-color: #524a50;
+    text-shadow: rgba(158, 84, 0, 0.85) -1px 1px 2px;
+    padding: 4.75%;
+    font-family: Rock Salt;
+    font-size: 0.75em;
+    transition: 0.5s;
 }
