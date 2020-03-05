@@ -1,0 +1,15 @@
+html{
+    background-color: #272226;
+}
+a:link{
+    color: #FECD66;
+}
+a:visited{
+    color: #FECD66;
+}
+a:hover{
+    color: rgb(255, 136, 0);
+}
+a:active{
+    color: rgb(255, 136, 0);
+}
