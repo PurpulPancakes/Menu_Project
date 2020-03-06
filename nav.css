@@ -5,7 +5,7 @@ html{
 }
 a:link{
     color: #FECD66;
-    background-color: #272226;
+    background-color: rgba(39,34,38,0);
     text-decoration: none;
     font-family: Rock Salt;
     font-size: 0.6em;
@@ -14,7 +14,7 @@ a:link{
 }
 a:visited{
     color: #FECD66;
-    background-color: #272226;
+    background-color: rgba(39,34,38,0);
     text-decoration: none;
     font-family: Rock Salt;
     font-size: 0.75em;
